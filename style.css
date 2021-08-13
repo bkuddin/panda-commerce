@@ -1,1 +1,9 @@
+/* Color */
 
+:root {
+  --color-primary: #feeae9;
+  --color-secondary: #ff4e94;
+  --color-accent: #000000;
+  --color-heading: #1f1f1f;
+  --color-body: #4e4e4e;
+}
