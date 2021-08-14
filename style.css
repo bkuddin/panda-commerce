@@ -20,7 +20,6 @@ html {
 body {
   font-family: Inter, Arial, Helvetica, sans-serif;
   color: var(--color-body);
-  font-size: 1.6rem;
 }
 
 h1,
@@ -50,6 +49,7 @@ h4 {
 }
 
 p {
+  font-size: 1.6rem;
   margin-top: 0;
 }
 
